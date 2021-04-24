@@ -8,7 +8,7 @@ Passive Abilities:
 -  You get hungry much faster
 -  Your cannot use a shield
 
-Active Abilities:
+Active Abilities:\n
 **[PRIMARY]** Grow Self - You can change your size up to 4 times larger than normal.
 **[SECONDARY]** Shrink Self - You can change your size up to 4 times smaller than normal.
 **[TERNARY]** Grow Others - You can make any mobs in a 5 block radius smaller (not players, yet)
