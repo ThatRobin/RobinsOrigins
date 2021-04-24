@@ -1,4 +1,4 @@
-Size Shifter (REQUIRED PEHKUI AND EXTRA KEYBINDS)
+**Size Shifter (REQUIRED PEHKUI AND EXTRA KEYBINDS)**
 
 Passive Abilities:
 +  While in your small form, you can climb blocks
@@ -25,9 +25,8 @@ Note:
 these datapacks do work without the Extra Keys mod, but you wont be able to use the "Grow others" and "Shrink others" abilities
 
 **Pehkui:**
-https://www.curseforge.com/minecraft/mc-mods/pehkui
+https://www.curseforge.com/minecraft/mc-mods/pehkui  
 **Extra Keybinds:**
-https://www.curseforge.com/minecraft/mc-mods/origins-extra-keybinds
-
+https://www.curseforge.com/minecraft/mc-mods/origins-extra-keybinds  
 **Github Link to datapacks:**
 https://github.com/Connor3001/ConnorsOrigins
