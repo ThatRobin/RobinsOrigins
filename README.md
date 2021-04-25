@@ -44,6 +44,21 @@ Active Abilities:
 **[SECONDARY]** Decrease Time Speed - You make the speed of time decrease for all entities.  
 **[TERNARY]** Free Yourself from Time - You can detach yourself from the current time speed, moving and acting at your normal pace
 
+
+**Omnigin (VERY OVERPOWERED)**
+
+Passive Abilities:
++  All origin passive abilities  
+
+Active Abilities:
+
+**[PRIMARY]** Phantom Form  
+**[SECONDARY]** Enderian Pearl  
+**[TERNARY]** Toggle underwater vision  
+**[QUATERNARY]** Toggle spider climbing  
+**[QUINARY]** Upthrust  
+**[SENARY]** Open Shulker Inventory  
+
 Note:
 these datapacks do work without the Extra Keys mod, but you wont be able to use the Ternary and Quaternary abilities
 
