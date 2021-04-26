@@ -29,7 +29,7 @@ As requested; a limitless version of the size shifter, you can now grow as big o
 
 Same abilities as the size shifter, but this time, without limits!
 
-**TimeKeeper (Not Recommended for multiplayer use)**
+**Time Manipulator (Not Recommended for multiplayer use)**
 
 Passive Abilities:
 +  While you are freed from time, and time is slowed, you can walk on water
