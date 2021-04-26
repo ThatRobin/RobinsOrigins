@@ -32,11 +32,11 @@ Same abilities as the size shifter, but this time, without limits!
 **Time Manipulator (Not Recommended for multiplayer use)**
 
 Passive Abilities:
-+  While you are freed from time, and time is slowed, you can walk on water
-+  You are immune to fall damage
-=  You are slightly transparent
--  You can only eat meat
--  You are weak when in confined spaces
++  While you are freed from time, and time is slowed, you can walk on water  
++  You are immune to fall damage  
++  You are slightly transparent  
++  You can only eat meat  
++  You are weak when in confined spaces  
 
 Active Abilities:
 
